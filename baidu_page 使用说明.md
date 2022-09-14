@@ -44,11 +44,11 @@ if __name__ == '__main__':
 
   - ![](https://github.com/Cococonutsu/baudu_page_crawler/blob/main/page/1.png)
 
-  - ![](D:\vs code\vs  code file\爬虫程序\baidu_page_crawler\page\2.png)
+  - ![](https://github.com/Cococonutsu/baudu_page_crawler/blob/main/page/2.png)
 
-  - ![](D:\vs code\vs  code file\爬虫程序\baidu_page_crawler\page\3.png)
+  - ![](https://github.com/Cococonutsu/baudu_page_crawler/blob/main/page/3.png)
 
-  - ![](D:\vs code\vs  code file\爬虫程序\baidu_page_crawler\page\4.png)
+  - ![](https://github.com/Cococonutsu/baudu_page_crawler/blob/main/page/4.png)
 
   - 到此为止，我们就获得了我们想爬取的图片的url
 
