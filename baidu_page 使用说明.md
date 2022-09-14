@@ -13,7 +13,7 @@
 ```python
 if __name__ == '__main__':
     baidu_url = input('请输入需要爬取的百度图片的url: ')
-    save_path = r'D:\vs code\vs  code file\baidu_page_crawler'
+    save_path = input('请输入你要将这些图片保存的文件夹地址: ')
     circulate_time = int(input('请输入需要爬取的循环数量(一次循环30张图片):'))
     a = GetPage(url = baidu_url, path = save_path, circulate_time = circulate_time )
     a.get_shufa()
