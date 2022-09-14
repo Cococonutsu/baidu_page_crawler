@@ -42,7 +42,7 @@ if __name__ == '__main__':
 
     下面将以爬取动漫图片为例子
 
-  - ![](D:\vs code\vs  code file\爬虫程序\baidu_page_crawler\page\1.png)
+  - ![](https://github.com/Cococonutsu/baudu_page_crawler/blob/main/page/1.png)
 
   - ![](D:\vs code\vs  code file\爬虫程序\baidu_page_crawler\page\2.png)
 
